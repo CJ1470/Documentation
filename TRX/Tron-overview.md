@@ -33,7 +33,7 @@ There are three types of nodes on Tron’s network, namely witness, full node an
 Exchanges need to deploy a full node and a solidity node. The solidity node connects to the local full node which connects to the mainnet.
 
 ## 2.3 Mainnet and testnet
-The blockchain explorer of the mainnet is https://tronscan.org and the testnet https://test.tronscan.org. Exchanges should test their code on the testnet. About how to config on the testnet, please refer to https://github.com/tronprotocol/TronDeployment/blob/master/test_net_config.conf. About how to config on the mainnet, please refer to https://github.com/tronprotocol/TronDeployment/blob/master/main_net_config.conf.
+The blockchain explorer of the mainnet is https://tronscan.org and the testnet https://test.tronscan.org. Exchanges should test their code on the testnet. About how to config on the testnet, please refer to https://github.com/tronprotocol/TronDeployment/blob/master/test_net_config.conf. About how to config on the mainnet, please refer to https://github.com/tronprotocol/TronDeployment/blob/master/main_net_config.conf.
 
 # 3. Operation of node
 
